@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sony-wh1000xm5",
+    "name": "索尼WH-1000XM5耳机",
+    "price": 2299,
+    "features": ["降噪效果极佳", "续航30小时"]
+  },
+  {
+    "id": "airpods-pro2",
+    "name": "苹果AirPods Pro 2",
+    "price": 1899,
+    "features": ["支持主动降噪", "续航24小时"]
+  },
+  {
+    "id": "mi-band-8",
+    "name": "小米手环8",
+    "price": 249,
+    "features": ["支持心率监测", "续航14天"]
+  }
+]
