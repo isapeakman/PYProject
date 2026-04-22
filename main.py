@@ -1,10 +1,12 @@
 import os
 
 from langchain_openai import ChatOpenAI
+from dotenv import load_dotenv
 
+load_dotenv()
 api_key = os.getenv("ZHIPUAI_API_KEY")
 if not api_key:
-    raise ValueError("请先设置环境变量 ZHIPUAI_API_KEY")
+    raise ValueError("请在 .env 或系统环境变量中设置 ZHIPUAI_API_KEY")
 
 llm = ChatOpenAI(
     model="GLM-4.6V",  # 或 glm-4-flash 等
