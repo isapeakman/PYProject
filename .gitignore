@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 .pytest_cache/
+chroma_db/
 
 # Environment variables / secrets
 .env
@@ -11,4 +12,3 @@ __pycache__/
 .idea/
 .vscode/
 *.log
-.env.example
