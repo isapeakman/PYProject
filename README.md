@@ -87,3 +87,4 @@ uv run streamlit run frontend/streamlit_app.py
 当前 `data/products.json` 已提供 50 条电商商品数据，可直接用于初始化向量库。
 
 ![项目结构图](picture/mermaid_20260422_da4346.png)
+![前端效果图](picture/front_20261804.png)

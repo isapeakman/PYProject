@@ -1,5 +1,11 @@
 import json
+import sys
 from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    # 允许通过 `python data/init_db.py` 直接运行脚本
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 from app.vector_store import get_vector_store
 
