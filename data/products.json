@@ -16,5 +16,287 @@
     "name": "小米手环8",
     "price": 249,
     "features": ["支持心率监测", "续航14天"]
+  },
+  {
+    "id": "huawei-freebuds-pro3",
+    "name": "华为FreeBuds Pro 3",
+    "price": 1499,
+    "features": ["双设备连接", "智慧动态降噪"]
+  },
+  {
+    "id": "bose-qc-ultra",
+    "name": "Bose QuietComfort Ultra耳机",
+    "price": 2799,
+    "features": ["沉浸式空间音频", "旗舰级降噪"]
+  },
+  {
+    "id": "jbl-tour-pro2",
+    "name": "JBL Tour Pro 2",
+    "price": 1699,
+    "features": ["智能充电盒", "自适应降噪"]
+  },
+  {
+    "id": "beats-studio-pro",
+    "name": "Beats Studio Pro",
+    "price": 2199,
+    "features": ["空间音频", "Type-C无损音频"]
+  },
+  {
+    "id": "anker-soundcore-liberty4",
+    "name": "Anker Soundcore Liberty 4",
+    "price": 899,
+    "features": ["心率检测", "空间音频"]
+  },
+  {
+    "id": "edifier-w860nb-pro",
+    "name": "漫步者W860NB Pro",
+    "price": 599,
+    "features": ["混合主动降噪", "续航45小时"]
+  },
+  {
+    "id": "sennheiser-momentum4",
+    "name": "森海塞尔MOMENTUM 4",
+    "price": 1999,
+    "features": ["高解析音质", "续航60小时"]
+  },
+  {
+    "id": "apple-watch-s9",
+    "name": "Apple Watch Series 9",
+    "price": 2999,
+    "features": ["心电图监测", "全天候视网膜屏"]
+  },
+  {
+    "id": "huawei-watch-gt4",
+    "name": "华为WATCH GT 4",
+    "price": 1488,
+    "features": ["科学睡眠监测", "续航14天"]
+  },
+  {
+    "id": "xiaomi-watch-s3",
+    "name": "小米Watch S3",
+    "price": 799,
+    "features": ["可更换表圈", "双频GNSS定位"]
+  },
+  {
+    "id": "garmin-forerunner-265",
+    "name": "Garmin Forerunner 265",
+    "price": 2980,
+    "features": ["AMOLED屏幕", "专业跑步训练"]
+  },
+  {
+    "id": "amazfit-balance",
+    "name": "Amazfit Balance",
+    "price": 1399,
+    "features": ["身体成分分析", "续航14天"]
+  },
+  {
+    "id": "ipad-air-m2",
+    "name": "iPad Air M2 11英寸",
+    "price": 4799,
+    "features": ["M2芯片", "支持Apple Pencil Pro"]
+  },
+  {
+    "id": "huawei-matepad-11-5s",
+    "name": "华为MatePad 11.5S",
+    "price": 2599,
+    "features": ["柔光护眼屏", "星闪手写笔"]
+  },
+  {
+    "id": "xiaomi-pad-6s-pro",
+    "name": "小米平板6S Pro",
+    "price": 3299,
+    "features": ["3K 144Hz屏幕", "骁龙8 Gen2"]
+  },
+  {
+    "id": "lenovo-y700-2025",
+    "name": "联想拯救者Y700平板",
+    "price": 2899,
+    "features": ["8.8英寸高刷屏", "游戏性能强"]
+  },
+  {
+    "id": "samsung-tab-s9",
+    "name": "三星Galaxy Tab S9",
+    "price": 5699,
+    "features": ["Dynamic AMOLED 2X", "IP68防水"]
+  },
+  {
+    "id": "iphone-15",
+    "name": "iPhone 15",
+    "price": 5999,
+    "features": ["灵动岛", "4800万像素主摄"]
+  },
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "price": 7999,
+    "features": ["钛金属机身", "A17 Pro芯片"]
+  },
+  {
+    "id": "huawei-pura70",
+    "name": "华为Pura 70",
+    "price": 5499,
+    "features": ["超聚光影像", "昆仑玻璃"]
+  },
+  {
+    "id": "xiaomi-14",
+    "name": "小米14",
+    "price": 3999,
+    "features": ["徕卡光学镜头", "骁龙8 Gen3"]
+  },
+  {
+    "id": "oppo-find-x7",
+    "name": "OPPO Find X7",
+    "price": 3999,
+    "features": ["超光影三主摄", "天玑9300"]
+  },
+  {
+    "id": "vivo-x100",
+    "name": "vivo X100",
+    "price": 3999,
+    "features": ["蔡司影像", "天玑9300"]
+  },
+  {
+    "id": "honor-magic6",
+    "name": "荣耀Magic6",
+    "price": 4399,
+    "features": ["青海湖电池", "鹰眼相机"]
+  },
+  {
+    "id": "oneplus-12",
+    "name": "一加12",
+    "price": 4299,
+    "features": ["2K东方屏", "哈苏影像"]
+  },
+  {
+    "id": "redmi-k70-pro",
+    "name": "Redmi K70 Pro",
+    "price": 3299,
+    "features": ["第二代2K屏", "狂暴引擎3.0"]
+  },
+  {
+    "id": "realme-gt5-pro",
+    "name": "真我GT5 Pro",
+    "price": 3399,
+    "features": ["潜望长焦", "骁龙8 Gen3"]
+  },
+  {
+    "id": "macbook-air-m3",
+    "name": "MacBook Air M3",
+    "price": 8999,
+    "features": ["轻薄便携", "最长18小时续航"]
+  },
+  {
+    "id": "macbook-pro-14-m3pro",
+    "name": "MacBook Pro 14 M3 Pro",
+    "price": 14999,
+    "features": ["Liquid Retina XDR", "专业内容创作"]
+  },
+  {
+    "id": "huawei-matebook-x-pro",
+    "name": "华为MateBook X Pro",
+    "price": 11199,
+    "features": ["OLED原色屏", "超级终端"]
+  },
+  {
+    "id": "lenovo-yoga-air-14s",
+    "name": "联想YOGA Air 14s",
+    "price": 6999,
+    "features": ["轻薄高颜值", "2.8K OLED屏"]
+  },
+  {
+    "id": "asus-zenbook-14",
+    "name": "华硕灵耀14",
+    "price": 6599,
+    "features": ["双雷电4接口", "75Wh大电池"]
+  },
+  {
+    "id": "dell-xps-13",
+    "name": "戴尔XPS 13",
+    "price": 9999,
+    "features": ["极窄边框", "轻薄金属机身"]
+  },
+  {
+    "id": "hp-spectre-x360",
+    "name": "惠普Spectre x360",
+    "price": 10999,
+    "features": ["360度翻转", "触控OLED屏"]
+  },
+  {
+    "id": "rog-zephyrus-g14",
+    "name": "ROG 幻14",
+    "price": 11999,
+    "features": ["高性能独显", "便携游戏本"]
+  },
+  {
+    "id": "legion-y9000p",
+    "name": "联想拯救者Y9000P",
+    "price": 9299,
+    "features": ["240Hz电竞屏", "RTX 4060显卡"]
+  },
+  {
+    "id": "msi-stealth-14",
+    "name": "微星Stealth 14",
+    "price": 10499,
+    "features": ["轻薄游戏本", "QHD+高刷屏"]
+  },
+  {
+    "id": "kindle-paperwhite",
+    "name": "Kindle Paperwhite",
+    "price": 1099,
+    "features": ["300ppi电子墨水屏", "防水设计"]
+  },
+  {
+    "id": "xgimi-horizon",
+    "name": "极米HORIZON投影仪",
+    "price": 4999,
+    "features": ["1080P高清", "自动梯形校正"]
+  },
+  {
+    "id": "dyson-v12-detect",
+    "name": "戴森V12 Detect Slim",
+    "price": 4290,
+    "features": ["激光探测灰尘", "轻量化机身"]
+  },
+  {
+    "id": "ecovacs-x5-pro",
+    "name": "科沃斯X5 Pro扫地机器人",
+    "price": 4599,
+    "features": ["全能基站", "自动集尘洗拖布"]
+  },
+  {
+    "id": "mijia-air-fryer-6l",
+    "name": "米家智能空气炸锅6L",
+    "price": 399,
+    "features": ["可视化窗口", "支持云食谱"]
+  },
+  {
+    "id": "anker-737-powerbank",
+    "name": "Anker 737充电宝",
+    "price": 999,
+    "features": ["140W双向快充", "24000mAh大容量"]
+  },
+  {
+    "id": "belkin-3in1-magsafe",
+    "name": "贝尔金3合1 MagSafe充电器",
+    "price": 1099,
+    "features": ["同时充手机手表耳机", "磁吸对准"]
+  },
+  {
+    "id": "logitech-mx-master-3s",
+    "name": "罗技MX Master 3S鼠标",
+    "price": 699,
+    "features": ["8K DPI传感器", "静音按键"]
+  },
+  {
+    "id": "keychron-k8-pro",
+    "name": "Keychron K8 Pro键盘",
+    "price": 598,
+    "features": ["热插拔", "蓝牙三模连接"]
+  },
+  {
+    "id": "xiaodu-smart-speaker-pro",
+    "name": "小度智能音箱Pro",
+    "price": 299,
+    "features": ["语音助手", "智能家居联动"]
   }
 ]
