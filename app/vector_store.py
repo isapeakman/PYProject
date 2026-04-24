@@ -23,10 +23,10 @@ def _get_api_key() -> str:
 def get_embeddings() -> OpenAIEmbeddings:
     """构造统一的 embedding 客户端配置。"""
     return OpenAIEmbeddings(
-        api_key=_get_api_key(),
+        api_key=_get_api_key,
         model=EMBEDDING_MODEL,
         base_url=BASE_URL,
-        request_timeout=60,
+        timeout=60,
         max_retries=3,
     )
 
